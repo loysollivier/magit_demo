@@ -14,6 +14,7 @@ car_list = [
     ["Renault", "Megane", "ZZ-222-ZZ", "30000"],
     ["Tesla", "Model 3", "DF-365-FD", "40000"],
     ["Porsche", "Panamera", "FG-345-FD", "100000"],
+    ["Fiat", "Punto", "ER-234-RF", "8000"],
 ]
 
 car_instances = []
