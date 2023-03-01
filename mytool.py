@@ -17,11 +17,12 @@ class Car:
         return f"{self.brand:10} - {self.model:10} - {self.vin:10} - {self.price}"
 
 car_list = [
-    ["Peugeot", "2008", "20000"],
-    ["Renault", "Megane", "30000"],
-    ["Tesla", "Model 3", "40000"],
-    ["Porsche", "Panamera", "100000"],
-    ["Fiat", "Punto", "8000"],
+    ["Peugeot", "2008", 20000],
+    ["Renault", "Megane", 30000],
+    ["Tesla", "Model 3", 40000],
+    ["Porsche", "Panamera", 100000],
+    ["Fiat", "Punto", 8000],
+    ["Dacia", "Sandero", 16000],
 ]
 
 car_instances = []
